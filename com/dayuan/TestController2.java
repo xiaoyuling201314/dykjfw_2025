@@ -5,6 +5,6 @@ public class TestController2{
         System.out.println("测试123");
         System.out.println("测试456");
         System.out.println("78910");
-        System.out.println("你好2！");
+        System.out.println("你好3！");
     }
 }
